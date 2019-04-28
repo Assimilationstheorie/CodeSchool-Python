@@ -1,7 +1,7 @@
 list = [
-    'a', 'b', 'a', 'c', 'b', 'd', 'a', 'b', 'f', 'd'
+    'a', 'b', 'a', 'c', 'b', 'd', 'a', 'b'
 ]
 
 for item in sorted(set(list)):
     count = list.count(item)
-    print item, '=', count, 'times'
+    print( f'{item} = {count} times' )
