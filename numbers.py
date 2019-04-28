@@ -16,3 +16,7 @@ while n < 20:
 print(len(data))
 # Gibt alle Elemente der data-Variable aus
 print(data)
+
+# Ausgabe
+# 20
+# {1, 4, 6, 18, 26, 37, 39, 42, 44, 50, 53, 54, 58, 61, 76, 80, 82, 87, 92, 93}
