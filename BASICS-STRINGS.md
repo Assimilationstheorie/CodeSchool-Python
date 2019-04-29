@@ -1,4 +1,4 @@
-# :snake: Basics
+# :snake: Basics-Strings
 
 ### Alle Zeichen in einem String großmachen
 ```sh
